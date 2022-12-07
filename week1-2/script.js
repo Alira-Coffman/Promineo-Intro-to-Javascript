@@ -41,3 +41,7 @@ console.log(b);
 console.log(b % 3);
 
 console.log(b % 2);
+//2 % 2 = 0
+//3 % 2 = 1
+//4 % 2 = 0
+//5 % 2 = 1 
